@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: "Work Sans", sans-serif;
-  margin: -100;
+  margin: 0;
 }
 
 .song {
@@ -51,9 +51,8 @@ body {
   top: -50px;
 }
 
-.text-box p {
-  margin: 0;
-  text-align: left;
+textarea {
+    width: 200px;
 }
 
 .text-box span {
