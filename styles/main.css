@@ -41,12 +41,9 @@ body {
   font-size: 3rem;
 }
 
-.four .text-box {
+.four . {
 
-  margin: 0 auto;
-  padding: 5px;
-  position: relative;
-  width: 600px;
+
 }
 
 .text-box p {
