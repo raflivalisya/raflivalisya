@@ -23,9 +23,9 @@ body {
 
 .container > div {
   left: 0;
-  position: absolute;
+  position: relative;
   right: 0;
-  top: 20vh;
+  top: 0vh;
 }
 
 .one {
