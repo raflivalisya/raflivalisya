@@ -244,13 +244,13 @@ body {
   }
 }
 
-@media screen and (max-height: 850px) and (max-width: 450px) {
+@media screen and (max-height: 850px) and (max-width: 300px) {
   .six .hat {
     left: 32%;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 100px) {
   .container {
     width: 100%;
   }
