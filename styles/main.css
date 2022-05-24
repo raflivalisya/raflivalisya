@@ -47,13 +47,13 @@ body {
   margin: 0 auto;
   padding: 10px;
   position: relative;
-  width: 800px;
+  width: 700px;
     
 }
 
 .text-box p {
   margin: 0;
-  text-align: left;
+  text-align: top;
 }
 
 .text-box span {
