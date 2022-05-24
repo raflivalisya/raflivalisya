@@ -46,7 +46,7 @@ body {
   border-radius: 5px;
   margin: 0 auto;
   padding: 10px;
-  position: relative;
+  position: absolute;
   width: 5000px;
 }
 
