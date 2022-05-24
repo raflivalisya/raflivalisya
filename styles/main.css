@@ -22,10 +22,10 @@ body {
 }
 
 .container > div {
-  left: 0;
-  position: auto;
-  right: 0;
-  top: 0vh;
+  left: 1;
+  position: relative;
+  right: 1;
+  top: 1vh;
 }
 
 .one {
@@ -47,7 +47,7 @@ body {
   margin: 0 auto;
   padding: 10px;
   position: relative;
-  width: 10000px;
+  width: 600px;
 }
 
 .text-box p {
