@@ -42,9 +42,9 @@ body {
 }
 
 .four .text-box {
-  border: 10px solid #aaa;
+  border: 3px solid #aaa;
   border-radius: 5px;
-  margin: 0 auto;
+  margin: 0 top;
   padding: 5px;
   position: relative;
   width: 600px;
