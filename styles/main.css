@@ -48,7 +48,6 @@ body {
   padding: 10px;
   position: relative;
   width: 600px;
-  top: 10px;
 }
 
 .text-box p {
@@ -245,19 +244,19 @@ body {
   }
 }
 
-@media screen and (max-height: 0px) and (max-width: 0px) {
+@media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 32%;
   }
 }
 
-@media screen and (max-width: 0px) {
+@media screen and (max-width: 500px) {
   .container {
-    width: 100%;
+    width: 90%;
   }
 
   .four .text-box {
-    width: 10%;
+    width: 90%;
   }
 
   .text-box .fake-btn {
