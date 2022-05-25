@@ -52,7 +52,7 @@ body {
 
 .text-box p {
   margin: 0;
-  text-align: top;
+  text-align: left;
 }
 
 .text-box span {
@@ -272,10 +272,7 @@ body {
     font-size: 10rem;
   }
 
-  .six .hat {
-    /* top: -20px; */
-    width: 50px;
-  }
+
 
   .wish-hbd {
     font-size: 2.2em;
