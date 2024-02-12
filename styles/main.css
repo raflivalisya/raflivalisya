@@ -131,6 +131,7 @@ body {
 .seven, .eight {
   height: 100vh;
   position: sticky;
+  visibility: hidden;
   top: 0;
   width: 100vw;
 }
