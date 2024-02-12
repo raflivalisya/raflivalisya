@@ -130,7 +130,7 @@ body {
 
 .seven, .eight {
   height: 100vh;
-  position: fixed;
+  position: absolute;
   top: 0;
   width: 100vw;
 }
