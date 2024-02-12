@@ -113,7 +113,7 @@ body {
 
 .baloons img {
   display: inline-block;
-  position: sticky;
+  position: absolute;
 }
 
 .baloons img:nth-child(even) {
@@ -130,15 +130,14 @@ body {
 
 .seven, .eight {
   height: 100vh;
-  position: sticky;
-  visibility: hidden;
+  position: absolute;
   top: 0;
   width: 100vw;
 }
 
 .eight svg {
   left: 0;
-  position: sticky;
+  position: absolute;
   top: 0;
   visibility: hidden;
   width: 25px;
