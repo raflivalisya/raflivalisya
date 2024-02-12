@@ -15,7 +15,7 @@ body {
   height: 100vh;
   margin: 0 auto;
   overflow: scroll;
-  position: relative;
+  position: absolute;
   text-align: center;
   visibility: hidden;
   width: 100vw;
