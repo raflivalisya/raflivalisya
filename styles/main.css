@@ -113,7 +113,7 @@ body {
 
 .baloons img {
   display: inline-block;
-  position: absolute;
+  position: sticky;
 }
 
 .baloons img:nth-child(even) {
